@@ -1,0 +1,6 @@
+aiocoap
+flask
+influxdb-client
+celery
+redis
+
